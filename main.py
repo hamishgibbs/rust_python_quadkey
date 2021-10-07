@@ -2,6 +2,7 @@ import quadkeys
 import math
 
 EARTH_RADIUS = 6378137
+
 LATITUDE_RANGE = (-85.05112878, 85.05112878)
 
 
