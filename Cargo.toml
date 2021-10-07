@@ -1,0 +1,13 @@
+[package]
+name = "quad-keys"
+version = "0.1.0"
+edition = "2018"
+
+
+[lib]
+name = "quadkeys"
+crate-type = ["cdylib"]
+
+[dependencies.pyo3]
+version = "0.13.2"
+features = ["extension-module"]
