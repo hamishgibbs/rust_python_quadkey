@@ -25,3 +25,10 @@ python main.py
 ```{shell}
 python -m pytest main.py
 ```
+
+### Resources
+[Speed up your Python using Rust](https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust)
+[Rust bindings for the Python interpreter](https://rustrepo.com/repo/PyO3-PyO3-rust-foreign-function-interface)
+[Py03](https://github.com/PyO3/pyo3)
+[pyquadkey2](https://github.com/muety/pyquadkey2)
+[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
